@@ -1,0 +1,14 @@
+.title {
+  color: rgb(83, 75, 75);
+  margin-left: 15px;
+}
+
+.descr {
+  display: flex;
+  justify-content: center;
+  max-width: 320px;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  margin-left: 15px;
+  padding-bottom: 2px;
+}
